@@ -1,0 +1,2 @@
+class CommingLog < ApplicationRecord
+end
